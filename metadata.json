@@ -1,0 +1,6 @@
+{
+  "name": "OK Platform",
+  "description": "A high-fidelity booking platform for Kalyanmandaps and suites in Odisha, featuring premium animated transitions, slot management, and tier filtering.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
